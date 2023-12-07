@@ -47,6 +47,12 @@ This Arduino Solar Tracker project is designed to automatically angle a solar pa
 #### Soldering Board Wire
 ![Soldering Board Wire](./images/soldering_board_wire.jpg)
 
+#### Soldering Board Partition 1
+![Soldering Board Partition 1](./images/soldering_board_partition_1.jpg)
+
+#### Soldering Board Partition 2
+![Soldering Board Partition 2](./images/soldering_board_partition_2.jpg)
+
 </details>
 
 
